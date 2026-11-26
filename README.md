@@ -102,18 +102,3 @@ This project demonstrates non-contact detection of metallic objects using a cust
 ## 10. Project Report
 
 - **Full Academic Report:** [Metal_Detector_Report_Final.pdf](./Metal_Detector_Report_Final.pdf)
-
----
-
-## 11. Academic Details
-
-- **Project Title:** Metal Detector
-- **Course:** Mini Project 1A — Semester III (Second Year of Engineering, AY 2024–2025)
-- **Department:** Electronics & Telecommunication Engineering (EXTC)
-- **Institution:** Don Bosco Institute of Technology (DBIT), Kurla, Mumbai (Affiliated to the University of Mumbai)
-- **Project Group (Group No. 8):**
-  - **Aayush Jangam** (Roll No. 49)
-  - **Vinayak Yadav** (Roll No. 47)
-  - **Atif Siddique** (Roll No. 44)
-  - **Harsh Rai** (Roll No. 36)
-- **Project Supervisors:** Ms. Freda Venessa Carvalho & Mr. Ankur Ganorkar
